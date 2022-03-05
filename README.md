@@ -1,1 +1,1 @@
-https://github-username.github.io/rsschool-cv/cv
+https://SniperBTC.github.io/rsschool-cv/cv,
