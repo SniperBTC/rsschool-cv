@@ -35,7 +35,7 @@ let result = multiply(2, 2);
 
 alert( result );
 ## **PROJECTS** 
-git commit
+
 
 
 
