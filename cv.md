@@ -19,20 +19,18 @@ Purposeful, a great desire to acquire the skills of a developer. Good sense of h
 * university: Belarusian National Technical University
 
 ## **ENGLISH**
-in the process of studying
+A1
 
 ## **CODE EXAMPLE**
 ```
-function multiply(x,y) 
-{
-return x * y;
+function multiply(x,y) {
+     return x * y;
 }
-
 let result = multiply(2, 2);
 alert( result );
 ```
 ## **PROJECTS** 
-https://SniperBTC.github.io/rsschool-cv/cv
+[https://SniperBTC.github.io/rsschool-cv/cv]
 
 
 
