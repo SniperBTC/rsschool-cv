@@ -23,9 +23,11 @@ in the process of studying
 
 ## **CODE EXAMPLE**
 ```
-function multiply(x,y) {
+function multiply(x,y) 
+{
 return x * y;
 }
+
 let result = multiply(2, 2);
 alert( result );
 ```
