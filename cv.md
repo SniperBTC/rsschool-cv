@@ -12,12 +12,18 @@ Purposeful, a great desire to acquire the skills of a developer. Good sense of h
  * HTML
  * CSS
  * Git
+
 ## **EDUCATION**
+
  1. Energy College
  2. university: Belarusian National Technical University
+
 ## **ENGLISH**
+
 in the process of studying
+
 ## **CODE EXAMPLE**
+
 function multiply(x,y) {
 
 return x * y;
@@ -27,7 +33,9 @@ return x * y;
 let result = multiply(2, 2);
 
 alert( result );
+
 ## **PROJECTS** 
+
 https://SniperBTC.github.io/rsschool-cv/cv
 
 
