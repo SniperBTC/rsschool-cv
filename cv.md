@@ -1,3 +1,4 @@
+![](foto.jpg)
 # ***Vitali Korobeiko***
 
 ## **CONTACTS**
@@ -24,13 +25,13 @@ A1
 ## **CODE EXAMPLE**
 ```
 function multiply(x,y) {
-     return x * y;
+     return x * y;            
 }
 let result = multiply(2, 2);
 alert( result );
 ```
 ## **PROJECTS** 
-[https://SniperBTC.github.io/rsschool-cv/cv]
+<https://SniperBTC.github.io/rsschool-cv/cv>
 
 
 
