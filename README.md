@@ -1,1 +1,1 @@
-https://SniperBTC.github.io/rsschool-cv/cv
+https://sniperbtc.github.io/rsschool-cv/
