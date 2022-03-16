@@ -25,7 +25,7 @@ Purposefulness, a great desire to acquire the skills of a frontend developer. Go
 
 ## **ENGLISH**
 
-A1
+A2
 
 ## **CODE EXAMPLE**
 
